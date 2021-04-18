@@ -1,7 +1,7 @@
 ---
 title: "Web temporal"
 description: |
-  Web para visualizar documentos temporalmente
+  Web para visualizar documentos temporalmente. El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
 site: distill::distill_website
 ---
 
@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
 
 ##  GADE-DRET (grupo B)
 
