@@ -21,4 +21,4 @@ El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
 ##  GADE-DRET (grupo B)
 
 
-- [Slides tema 4]("./econometria_gadedret/slides_tema_4.html){target="_blank"}.
+- [Slides tema 4](./econometria_gadedret/slides_tema_4.html){target="_blank"}.
