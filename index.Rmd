@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
+
 ##  GADE-DRET (grupo B)
 
 
