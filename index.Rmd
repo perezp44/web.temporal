@@ -1,0 +1,22 @@
+---
+title: "Web temporal"
+description: |
+  Web para visualizar documentos temporalmente
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+##  GADE-DRET (grupo B)
+
+
+- [Slides tema 4]("./econometria_gadedret/slides_tema_4.html){target="_blank"}.

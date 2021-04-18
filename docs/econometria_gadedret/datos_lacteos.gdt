@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.3" name="Lacteos" frequency="1" startobs="1" endobs="40" type="cross-section">
+<description>Datos importados desde el fichero Eviews 'Datos_T2_Ejer_6_(caso303).WF1', 2015-10-29 10:09
+</description>
+<variables count="10">
+<variable name="ALIMEN"
+/>
+<variable name="BEBAL"
+/>
+<variable name="CARNE"
+/>
+<variable name="ESTMED"
+ label="(1= Estudios medios pero no superiores)"
+/>
+<variable name="ESTSUP"
+ label="(1= Estudios superiores)"
+/>
+<variable name="LACTEOS"
+ label="Gasto per capita en productos lacteos"
+/>
+<variable name="PROPMEN5"
+ label="% de mienbros de la familia menores de 5 años"
+/>
+<variable name="RDISP"
+ label="Renta per capita"
+/>
+<variable name="TAMHOG"
+/>
+<variable name="URBANO"
+ label="(1= residencia urbana)"
+/>
+</variables>
+<observations count="40" labels="false">
+<obs>142.72 12.72 39.97 0 0 8.87 0.2 1250 5 1 </obs>
+<obs>156.08 26.84 52.21 0 0 6.59 0 985 2 0 </obs>
+<obs>300.58 17.66 61.79 1 0 11.46 0 2175 1 0 </obs>
+<obs>162.19 33.68 53.61 0 0 15.07 0.5 1025 2 1 </obs>
+<obs>214.35 35.76 60.24 0 0 15.6 0.33 1690 3 1 </obs>
+<obs>120.73 20.35 31.43 0 0 6.71 0.25 670 4 1 </obs>
+<obs>167.91 21.37 50.64 1 0 10.02 0 1600 3 1 </obs>
+<obs>132.03 14.74 42.5 0 0 7.41 0.25 940 4 1 </obs>
+<obs>188.46 7.22 59.29 1 0 11.52 0 1730 2 0 </obs>
+<obs>112.98 4.06 46.61 1 0 7.47 0.33 640 3 0 </obs>
+<obs>154.38 11.18 52.98 0 0 6.73 0 860 1 0 </obs>
+<obs>219.98 14.79 53.38 0 1 8.05 0 960 2 1 </obs>
+<obs>151.92 4.07 48.74 0 0 11.03 0.25 1575 4 0 </obs>
+<obs>136.08 12.18 23.6 1 0 10.11 0.2 1230 5 0 </obs>
+<obs>213.91 11.35 65.17 0 1 18.65 0.25 2190 4 1 </obs>
+<obs>216.72 40.7 60.59 0 0 10.3 0 1580 2 1 </obs>
+<obs>213.96 9.32 70.69 0 1 15.3 0 2300 3 0 </obs>
+<obs>198.65 21.42 62.11 1 0 13.75 0.33 1720 3 1 </obs>
+<obs>130 13.95 39.38 0 0 11.49 0.5 850 2 0 </obs>
+<obs>122.85 16.73 38.56 0 0 6.69 0.2 780 5 0 </obs>
+<obs>256.46 21.11 70.37 0 1 16.2 0 2100 3 0 </obs>
+<obs>154.05 5.47 40.76 1 0 10.39 0.2 1470 5 1 </obs>
+<obs>246.49 19.38 70.39 0 1 13.5 0 1225 1 1 </obs>
+<obs>255.11 20.87 65.33 1 0 8.5 0 1380 1 0 </obs>
+<obs>207.81 14.14 50.9 1 0 19.77 0.25 2450 4 0 </obs>
+<obs>133.24 13.81 40.49 0 0 9.69 0.5 910 4 0 </obs>
+<obs>110.98 12.96 33.91 0 0 7.9 0.33 690 3 0 </obs>
+<obs>171.82 18.47 53.8 0 0 10.15 0 1450 3 1 </obs>
+<obs>402.59 3.84 67.89 0 1 13.82 0 2275 2 0 </obs>
+<obs>176.99 7.63 44.27 1 0 13.74 0.33 1620 3 1 </obs>
+<obs>140.85 30.94 35.74 0 0 4.91 0.33 740 3 1 </obs>
+<obs>178.96 17.91 42.87 1 0 20.99 0 1125 2 1 </obs>
+<obs>163.88 20.99 39.39 0 0 20.06 0.5 1335 4 1 </obs>
+<obs>299.95 12.13 68.74 0 1 18.93 0 2875 3 0 </obs>
+<obs>203.87 24.48 66.32 1 0 13.19 0 1680 2 1 </obs>
+<obs>138.44 13.04 51.01 0 0 5.86 0 870 2 1 </obs>
+<obs>181.62 12.27 63.44 0 0 7.43 0 1620 3 0 </obs>
+<obs>124.97 20.38 30.28 0 0 7.15 0.33 960 3 0 </obs>
+<obs>152.64 5.52 48.01 1 0 9.1 0.25 1125 4 1 </obs>
+<obs>184.5 0.22 53.94 0 1 15.31 0.2 1875 5 1 </obs>
+</observations>
+</gretldata>
