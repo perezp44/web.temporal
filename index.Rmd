@@ -31,4 +31,4 @@ El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
 
 - [Tablas de probabilidad](./econometria_gadedret/tablas_probabilidad.pdf){target="_blank"}.
 
-- [Datos lacteos](./econometria_gadedret/datos_lacteos.gdt){target="_blank"}.
+- [Datos](./econometria_gadedret/datos.zip){target="_blank"}.
