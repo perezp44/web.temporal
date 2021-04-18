@@ -22,3 +22,13 @@ El repo en Github está [aquí](https://github.com/perezp44/web.temporal).
 
 
 - [Slides tema 4](./econometria_gadedret/slides_tema_4.html){target="_blank"}.
+
+- [Slides tema 5](./econometria_gadedret/slides_tema_5.html){target="_blank"}.
+
+- [Slides tema 7](./econometria_gadedret/slides_tema_7.html){target="_blank"}.
+
+- [Cuestionario](./econometria_gadedret/cuestionario_practicas.html){target="_blank"}.
+
+- [Tablas de probabilidad](./econometria_gadedret/tablas_probabilidad.pdf){target="_blank"}.
+
+- [Datos lacteos](./econometria_gadedret/datos_lacteos.gdt){target="_blank"}.
