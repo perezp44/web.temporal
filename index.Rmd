@@ -35,9 +35,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [Slides tema 7](./econometria_gadedret/slides_tema_7.html){target="_blank"}.
 
-<br>
 
-#### Material para prácticas
+### Material para prácticas
 
 - [Cuestionario](./econometria_gadedret/cuestionario_practicas.html){target="_blank"}.
 
