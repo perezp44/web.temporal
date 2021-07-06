@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-##  GADE-DRET (grupo B)
+##  Econometría de GADE (grupo F)
 
 ### Transparencias para clase
 
