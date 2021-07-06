@@ -19,17 +19,31 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##  GADE-DRET (grupo B)
 
+### Transparencias para clase
+
+- [Slides tema 1](./econometria_gadedret/slides_tema_1.html){target="_blank"}.
+
+- [Slides tema 2](./econometria_gadedret/slides_tema_2.html){target="_blank"}.
+
+- [Slides tema 3](./econometria_gadedret/slides_tema_3.html){target="_blank"}.
 
 - [Slides tema 4](./econometria_gadedret/slides_tema_4.html){target="_blank"}.
 
 - [Slides tema 5](./econometria_gadedret/slides_tema_5.html){target="_blank"}.
 
+- [Slides tema 6](./econometria_gadedret/tema_06.pdf){target="_blank"}.
+
 - [Slides tema 7](./econometria_gadedret/slides_tema_7.html){target="_blank"}.
+
+<br>
+
+#### Material para prácticas
 
 - [Cuestionario](./econometria_gadedret/cuestionario_practicas.html){target="_blank"}.
 
+- [Datos](./econometria_gadedret/datos.zip){target="_blank"}.
+
 - [Tablas de probabilidad](./econometria_gadedret/tablas_probabilidad.pdf){target="_blank"}.
 
-- [Datos](./econometria_gadedret/datos.zip){target="_blank"}.
 
 - [Etherpad](https://etherpad.wikimedia.org/p/curso_intro_DS_UV){target="_blank"}.
