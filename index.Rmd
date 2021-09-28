@@ -45,3 +45,5 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Tablas de probabilidad](./econometria_gadedret/tablas_probabilidad.pdf){target="_blank"}
 
 - [Etherpad](https://etherpad.wikimedia.org/p/curso_intro_DS_UV){target="_blank"}
+
+- [Calculos con Excel - Ejercicio 2](./econometria_gadedret/calculos_ejercicio_2_con-Excel.xlsx)
